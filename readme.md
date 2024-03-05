@@ -84,6 +84,8 @@
 ## Project Skeleton 
 
 ```
+search-photos  (folder)
+|
 |----style.css
 |----img (folder)           
 |----index.html         
